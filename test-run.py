@@ -1,5 +1,7 @@
+#Author: Gabriel Nespoli
+
 import sys
-import lib1743585 as mylib
+import singlelinkage as mylib
 import numpy as np
 import collections
 
