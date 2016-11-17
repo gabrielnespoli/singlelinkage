@@ -1,3 +1,5 @@
+#Author: Gabriel Nespoli
+
 import numpy as np
 import string
 import re
